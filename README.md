@@ -11,6 +11,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | Sr. No. | Name of Project | Tech Stack | Link to Repository |
 | :---: | :--- | :--- | :--- |
 | **1** | Customer Satisfaction Analysis | Python, pandas, NLTK, Jupyter | [🔗 View Project](https://github.com/Raaaj2005/Customer-Satisfaction-Analysis) |
+| **2** | K - Means Clustering 101: World Happiness | Python, Scikit-Learn, Plotly, Jupyter | [🔗 View Project](https://github.com/Raaaj2005/K-Means-Clustering-101-World-Happiness) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
