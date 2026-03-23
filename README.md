@@ -24,5 +24,5 @@ Across these various projects, I frequently work with:
 ## 👤 Author details
 
 Name: Raj Fatehveer Singh Brar<br>
-GitHub: [@Raaaj2005](https://github.com/Raaaj2005)<br>
+Email ID: rbrar_be23@thapar.edu<br>
 University: Thapar Institute of Engineering and Technology
