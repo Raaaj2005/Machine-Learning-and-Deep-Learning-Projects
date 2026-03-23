@@ -22,7 +22,7 @@ Across these various projects, I frequently work with:
 * **Machine Learning & NLP:** NLTK, scikit-learn
 * **Tools & Environments:** Jupyter Notebook, Git, GitHub
 
-## 👤 Author details
+## 👤 Author Details
 
 Name: Raj Fatehveer Singh Brar<br>
 Email ID: rbrar_be23@thapar.edu<br>
