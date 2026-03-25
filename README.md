@@ -14,6 +14,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **2** | K - Means Clustering 101: World Happiness | Python, Scikit-Learn, Plotly, Jupyter | [🔗 View Project](https://github.com/Raaaj2005/K-Means-Clustering-101-World-Happiness) |
 | **3** | Diabetes Detection Using XGBoost and Neural Networks | Python, TensorFlow/Keras, XGBoost, Scikit-Learn | [🔗 View Project](https://github.com/Raaaj2005/Diabetes-Detection-Using-XGBoost-and-Neural-Networks) |
 | **4** | Predict Ad Clicks using Logistic Regression | Python, Scikit-Learn, pandas, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Predict-Ad-Clicks-Using-Logistic-Regression) |
+| **5** | Cervical Cancer Prediction using XGBoost | Python, XGBoost, Scikit-Learn, pandas | [🔗 View Project](https://github.com/Raaaj2005/Cervical-Cancer-Prediction-Using-XGBoost) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
