@@ -17,6 +17,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **5** | Cervical Cancer Prediction Using XGBoost | Python, XGBoost, Scikit-Learn, pandas | [🔗 View Project](https://github.com/Raaaj2005/Cervical-Cancer-Prediction-Using-XGBoost) |
 | **6** | Medical Insurance Premium Prediction Using Machine Learning | Python, Scikit-Learn, TensorFlow/Keras, pandas | [🔗 View Project](https://github.com/Raaaj2005/Medical-Insurance-Premium-Prediction-Using-Machine-Learning) |
 | **7** | Facial Expression Recognition Using PyTorch | Python, PyTorch, Torchvision, pandas | [🔗 View Project](https://github.com/Raaaj2005/Facial-Expression-Recognition-Using-PyTorch) |
+| **8** | Deep Learning For Real Estate Price Prediction | Python, TensorFlow/Keras, Scikit-Learn, pandas | [🔗 View Project](https://github.com/Raaaj2005/Deep-Learning-For-Real-Estate-Price-Prediction) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
