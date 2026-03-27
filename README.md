@@ -19,6 +19,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **7** | Facial Expression Recognition Using PyTorch | Python, PyTorch, Torchvision, pandas | [🔗 View Project](https://github.com/Raaaj2005/Facial-Expression-Recognition-Using-PyTorch) |
 | **8** | Deep Learning For Real Estate Price Prediction | Python, TensorFlow/Keras, Scikit-Learn, pandas | [🔗 View Project](https://github.com/Raaaj2005/Deep-Learning-For-Real-Estate-Price-Prediction) |
 | **9** | Machine Learning For Kyphosis Disease Classification | Python, Scikit-Learn, pandas, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Machine-Learning-For-Kyphosis-Disease-Classification) |
+| **10** | Detecting COVID-19 With Chest X-Ray Using PyTorch | Python, PyTorch, ResNet18, Torchvision | [🔗 View Project](https://github.com/Raaaj2005/Detecting-COVID-19-With-Chest-XRay-Using-PyTorch) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
@@ -26,7 +27,9 @@ Below is the directory of all the projects included in this portfolio. You can c
 Across these various projects, I frequently work with:
 * **Languages:** Python
 * **Data & Math:** pandas, NumPy
-* **Machine Learning & NLP:** NLTK, scikit-learn
+* **Machine Learning & NLP:** NLTK, scikit-learn, XG-Boost
+* **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18
+* **Visualization:** Matplotlib, Seaborn, Plotly
 * **Tools & Environments:** Jupyter Notebook, Git, GitHub
 
 ## 👤 Author Details
