@@ -20,6 +20,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **8** | Deep Learning For Real Estate Price Prediction | Python, TensorFlow/Keras, Scikit-Learn, pandas | [🔗 View Project](https://github.com/Raaaj2005/Deep-Learning-For-Real-Estate-Price-Prediction) |
 | **9** | Machine Learning For Kyphosis Disease Classification | Python, Scikit-Learn, pandas, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Machine-Learning-For-Kyphosis-Disease-Classification) |
 | **10** | Detecting COVID-19 With Chest X-Ray Using PyTorch | Python, PyTorch, ResNet18, Torchvision | [🔗 View Project](https://github.com/Raaaj2005/Detecting-COVID-19-With-Chest-XRay-Using-PyTorch) |
+| **11** | Visualizing Filters of a CNN Using TensorFlow | Python, TensorFlow, VGG16, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Visualizing-Filters-of-a-CNN-Using-TensorFlow) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
@@ -28,9 +29,9 @@ Across these various projects, I frequently work with:
 * **Languages:** Python
 * **Data & Math:** pandas, NumPy
 * **Machine Learning & NLP:** NLTK, scikit-learn, XG-Boost
-* **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18
+* **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18, VGG16
 * **Visualization:** Matplotlib, Seaborn, Plotly
-* **Tools & Environments:** Jupyter Notebook, Git, GitHub
+* **Tools & Environments:** Google Colab, Jupyter Notebook, Git, GitHub
 
 ## 👤 Author Details
 
