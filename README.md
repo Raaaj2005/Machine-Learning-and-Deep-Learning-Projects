@@ -22,6 +22,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **10** | Detecting COVID-19 With Chest X-Ray Using PyTorch | Python, PyTorch, ResNet18, Torchvision | [🔗 View Project](https://github.com/Raaaj2005/Detecting-COVID-19-With-Chest-XRay-Using-PyTorch) |
 | **11** | Visualizing Filters of a CNN Using TensorFlow | Python, TensorFlow, VGG16, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Visualizing-Filters-of-a-CNN-Using-TensorFlow) |
 | **12** | Data Visualization Using Plotly | Python, Plotly, pandas, NumPy | [🔗 View Project](https://github.com/Raaaj2005/Data-Visualization-Using-Plotly) |
+| **13** | Deep Learning With PyTorch - Image Segmentation | Python, PyTorch, U-Net, Albumentations | [🔗 View Project](https://github.com/Raaaj2005/Deep-Learning-With-PyTorch-Image-Segmentation) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
@@ -30,9 +31,9 @@ Across these various projects, I frequently work with:
 * **Languages:** Python
 * **Data & Math:** pandas, NumPy
 * **Machine Learning & NLP:** NLTK, scikit-learn, XG-Boost
-* **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18, VGG16
+* **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18, VGG16, U-Net
 * **Visualization:** Matplotlib, Seaborn, Plotly
-* **Tools & Environments:** Google Colab, Jupyter Notebook, Git, GitHub
+* **Tools & Environments:** Google Colab, Jupyter Notebook, Git, GitHub, Albumentations
 
 ## 👤 Author Details
 
