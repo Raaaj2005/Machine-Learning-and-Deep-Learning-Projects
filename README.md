@@ -24,6 +24,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **12** | Data Visualization Using Plotly | Python, Plotly, pandas, NumPy | [🔗 View Project](https://github.com/Raaaj2005/Data-Visualization-Using-Plotly) |
 | **13** | Deep Learning With PyTorch - Image Segmentation | Python, PyTorch, U-Net, Albumentations | [🔗 View Project](https://github.com/Raaaj2005/Deep-Learning-With-PyTorch-Image-Segmentation) |
 | **14** | Hyperparameter Tuning With Keras Tuner | Python, TensorFlow/Keras, Keras Tuner | [🔗 View Project](https://github.com/Raaaj2005/Hyperparameter-Tuning-With-Keras-Tuner) |
+| **15** | Image Classification Using TensorFlow | Python, TensorFlow/Keras, NumPy, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Image-Classification-Using-TensorFlow) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
