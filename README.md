@@ -26,6 +26,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **14** | Hyperparameter Tuning With Keras Tuner | Python, TensorFlow/Keras, Keras Tuner | [🔗 View Project](https://github.com/Raaaj2005/Hyperparameter-Tuning-With-Keras-Tuner) |
 | **15** | Image Classification Using TensorFlow | Python, TensorFlow/Keras, NumPy, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Image-Classification-Using-TensorFlow) |
 | **16** | Fake News Detection With Machine Learning | Python, TensorFlow/Keras, RNN, NLTK | [🔗 View Project](https://github.com/Raaaj2005/Fake-News-Detection-With-Machine-Learning) |
+| **17** | Data Visualization Using Bokeh | Python, Bokeh, pandas, NumPy | [🔗 View Project](https://github.com/Raaaj2005/Data-Visualization-Using-Bokeh) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
@@ -35,7 +36,7 @@ Across these various projects, I frequently work with:
 * **Data & Math:** pandas, NumPy
 * **Machine Learning & NLP:** NLTK, scikit-learn, XG-Boost
 * **Deep Learning & Computer Vision:** TensorFlow, Keras, PyTorch, Torchvision, ResNet18, VGG16, U-Net, Keras Tuner
-* **Visualization:** Matplotlib, Seaborn, Plotly, WordCloud
+* **Visualization:** Matplotlib, Seaborn, Plotly, WordCloud, Bokeh
 * **Tools & Environments:** Google Colab, Jupyter Notebook, Git, GitHub, Albumentations
 
 ## 👤 Author Details
