@@ -1,4 +1,4 @@
-# 🚀 Machine Learning and Deep Learning Projects 
+# 🚀 Machine Learning and Deep Learning Projects
 
 Welcome to my project portfolio! This master repository serves as a central hub for all the standalone projects, analyses, and codebases I am building. 
 
