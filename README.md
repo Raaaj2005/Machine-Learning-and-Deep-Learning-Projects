@@ -29,6 +29,7 @@ Below is the directory of all the projects included in this portfolio. You can c
 | **17** | Data Visualization Using Bokeh | Python, Bokeh, pandas, NumPy | [🔗 View Project](https://github.com/Raaaj2005/Data-Visualization-Using-Bokeh) |
 | **18** | Tweet Emotion Recognition Using RNN | Python, TensorFlow/Keras, RNN, NLTK | [🔗 View Project](https://github.com/Raaaj2005/Tweet-Emotion-Recognition-Using-RNN) |
 | **19** | Titanic Survival Prediction Using Logistic Regression and Naive Bayes | Python, Scikit-Learn, pandas, Matplotlib | [🔗 View Project](https://github.com/Raaaj2005/Titanic-Survival-Prediction-Using-Logistic-Regression-and-Naive-Bayes) |
+| **20** | Employee Attrition Prediction Using Machine Learning | Python, Scikit-Learn, Logistic Regression | [🔗 View Project](https://github.com/Raaaj2005/Employee-Attrition-Prediction-Using-Machine-Learning) |
 
 *(Note: This table will be updated continuously as new projects are completed and pushed to GitHub.)*
 
